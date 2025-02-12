@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "BlazorApp\\bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/94a5c35a-b41a-4ffa-a37a-7d5df5344262/resourceGroups/Rg_sumit.kumar/providers/Microsoft.Web/sites/newwebapplab"
+}

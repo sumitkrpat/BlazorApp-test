@@ -1,0 +1,7 @@
+C:\Work\RnD\BlazorApp\BlazorApp\bin\Release\net8.0\publish\BlazorApp.exe
+C:\Work\RnD\BlazorApp\BlazorApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Work\RnD\BlazorApp\BlazorApp\bin\Release\net8.0\publish\appsettings.json
+C:\Work\RnD\BlazorApp\BlazorApp\bin\Release\net8.0\publish\BlazorApp.dll
+C:\Work\RnD\BlazorApp\BlazorApp\bin\Release\net8.0\publish\BlazorApp.deps.json
+C:\Work\RnD\BlazorApp\BlazorApp\bin\Release\net8.0\publish\BlazorApp.runtimeconfig.json
+C:\Work\RnD\BlazorApp\BlazorApp\bin\Release\net8.0\publish\BlazorApp.pdb
